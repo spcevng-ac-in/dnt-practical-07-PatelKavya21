@@ -1,0 +1,4 @@
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical7\Practical7\bin\Practical7.dll
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical7\Practical7\bin\Practical7.pdb
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical7\Practical7\obj\Debug\Practical7.dll
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical7\Practical7\obj\Debug\Practical7.pdb
